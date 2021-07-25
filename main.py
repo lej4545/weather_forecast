@@ -8,6 +8,7 @@ from random_picture import *
 access_token = get_refresh_token()
 friend_url = "https://kapi.kakao.com/v1/api/talk/friends"
 
+# eunjin
 # GET /v1/api/talk/friends HTTP/1.1
 # Host: kapi.kakao.com
 # Authorization: Bearer {ACCESS_TOKEN}
